@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Untitled-1.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="smile face0000" x="4" y="4" width="226" height="228"/>
+	<SubTexture name="smile face20000" x="234" y="4" width="218" height="232"/>
+	<SubTexture name="smile face30000" x="4" y="240" width="224" height="229"/>
+</TextureAtlas>
