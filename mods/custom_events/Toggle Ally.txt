@@ -1,0 +1,3 @@
+Toggles the ally on or off.
+1 = Off
+2 = On

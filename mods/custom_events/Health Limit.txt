@@ -1,0 +1,9 @@
+Value 1: New health limit (from 0 to 2)
+Value 2: What time it takes to fully apply the limit (in seconds)
+* If value 2 is set to 0, the limit will apply instantly.
+
+
+
+
+
+* If value 1 is set to 0, well, you die...

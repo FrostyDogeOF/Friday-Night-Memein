@@ -1,0 +1,11 @@
+{
+	"events": [
+		[
+			96000,
+			[
+				["Split Screen", "0.2,sineOut,1.2,1.2,false", "20"]
+			]
+		]
+	],
+	"format": "psych_v1"
+}

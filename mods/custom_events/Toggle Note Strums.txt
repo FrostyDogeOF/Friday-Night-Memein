@@ -1,0 +1,6 @@
+Toggles a Third Note Strum.
+
+Put an event to trigger it.
+To make a character play an animation,
+use the GF Sing Notetype
+You put the GF as your third strum character.

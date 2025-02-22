@@ -1,0 +1,2 @@
+Display the Credits text depending on the song name.
+Images located in images/creditcards
