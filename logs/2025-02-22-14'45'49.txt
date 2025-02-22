@@ -1,0 +1,21 @@
+P-Slice 2.3.1
+
+Uncaught Error: Null Object Reference
+In file flixel/FlxSprite.hx: CLS:FlxSprite:updateHitbox()  Line:725
+In file objects/HealthIcon.hx: CLS:HealthIcon:updateHitbox()  Line:53
+In file states/PlayState.hx: CLS:PlayState:__default_updateIconsScale()  Line:1932
+In file states/PlayState.hx: CLS:PlayState:update()  Line:1768
+In file flixel/FlxState.hx: CLS:FlxState:tryUpdate()  Line:239
+In file flixel/FlxGame.hx: CLS:FlxGame:update()  Line:749
+In file flixel/FlxGame.hx: CLS:FlxGame:step()  Line:679
+In file flixel/FlxGame.hx: CLS:FlxGame:onEnterFrame()  Line:558
+In file openfl/events/EventDispatcher.hx: CLS:EventDispatcher:__dispatchEvent()  Line:426
+In file openfl/display/DisplayObject.hx: CLS:DisplayObject:__dispatch()  Line:1398
+----------
+Active mod: 
+Platform: Windows
+
+
+Please report this error to the GitHub page: https://github.com/Psych-Slice/P-Slice
+
+> Crash Handler written by: sqirra-rng
