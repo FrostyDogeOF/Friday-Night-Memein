@@ -1,21 +1,26 @@
 {
-	"songs": [
-		["Darnell (BF Mix)", "darnell", [65, 60, 174]]
-	],
-
+	"storyName": "Due Debts",
+	"difficulties": "Normal,Hard,Angy",
+	"hideFreeplay": false,
+	"weekBackground": "phillystreets",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"hideStoryMode": true,
 	"weekCharacters": [
 		"darnell",
 		"pico-player",
 		"nene"
 	],
-	"weekBackground": "phillystreets",
-
-	"storyName": "Due Debts",
-	"weekBefore": "",
-	"weekName": "Weekend 1",
-	"startUnlocked": true,
-
-	"hideStoryMode": true,
-	"hideFreeplay": false,
-	"difficulties": "Easy, Normal, Hard"
+	"songs": [
+		[
+			"Darnell (BF Mix)",
+			"darnell",
+			[
+				65,
+				60,
+				174
+			]
+		]
+	],
+	"weekName": "Weekend 1"
 }

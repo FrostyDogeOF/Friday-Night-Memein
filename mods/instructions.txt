@@ -1,0 +1,52 @@
+// WINDOW DARK MODE + COLORS EXTENSIONS V3.0 - Made by T-Bar //
+
+Well, this is probably the final update before this code (and more) will be
+added to Ghostutil V3.
+
+
+                          --  NEW TO 3.0  --
+
+Here are the features new to 3.0:
+
+-Removed any instance of runHaxeCode, making the script able to run on
+ ALL Psych Engine versions with lua support again.
+
+-Added a new function: `setWindowTitleColor()`, a function that allows you
+ to modify the window's title text color, originally exclusive to Ghostutil v3.
+
+-All functions, except for the Windows 11 exclusive functions, no longer use
+ the AddressParser lib and can now run without it, just incase you are having
+ trouble with it and only want to set the border to dark mode.
+
+-The AddressParser.dll library is now in the same folder as the WindowColorMode.lua
+ script. 
+ (Example: if the script path is `mods/scripts/WindowColorMode.lua`, then the lib
+  must be in `mods/scripts/include/AddressParser.dll`)
+
+                           -- INSTRUCTIONS --
+
+1: Unzip the contents of the zip file. (duh)
+
+2: Add the WindowColorMode.lua script in the scripts folder or a song specific folder.
+
+3: Add the `include` folder containing the AddressParser lib into the same directory as
+   the WindowColorMode.lua script (example is above in the "NEW TO 3.0" category).
+
+4: Currently the template code inside the script will turn the window dark mode and will switch
+   back after the song is over. You can edit the section under the extra code section, near the bottom.
+
+
+                              -- EXTRAS --
+
+ - `setWindowBorderColor` and `setWindowTitleColor` only works for Windows 11 machines. This is due to multiple 
+    color support being added started from Win 11.
+
+ - Do not remove the include folder from your modpack / mods folder, it is a library that is used to convert
+   certain variables to their addresses. Removing it will make all Windows 11 functions not work.
+   If you (for some reason) are not comfortable using the AddressParser.dll, then use the old version of the
+   script here: https://gamebanana.com/scripts/12145 (OR use the regular color mode functions only)
+
+ - The functions in this script will eventually be added to Ghost Utilities V3 along with a new lua module
+   (https://github.com/AlsoGhostglowDev/Ghost-s-Utilities).
+
+ - Check out the haxelib version for if you want to use this code in a source code project `https://lib.haxe.org/p/hxWindowColorMode/`.

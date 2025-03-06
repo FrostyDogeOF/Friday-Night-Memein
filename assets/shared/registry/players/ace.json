@@ -69,7 +69,7 @@
     ]
   },
   "charSelect": {
-    "position": 3,
+    "position": 4,
     "gf": {
       "assetPath": "charSelect/neneChill",
       "animInfoPath": "charSelect/neneAnimInfo",
